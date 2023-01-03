@@ -76,3 +76,8 @@ gem "sass-rails", "~> 6.0"
 gem "jquery-rails", "~> 4.5"
 
 gem "bootstrap", "~> 5.2"
+
+gem "rubocop", "~> 1.39"
+gem "rubocop-md", "~> 1.1"
+gem "rubocop-performance", "~> 1.15"
+gem "rubocop-rake", "~> 0.6.0"
