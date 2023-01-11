@@ -83,3 +83,5 @@ gem "rubocop-performance", "~> 1.15"
 gem "rubocop-rake", "~> 0.6.0"
 
 gem "hirb", "~> 0.7.3"
+
+gem "devise", "~> 4.8"
